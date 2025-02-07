@@ -1,0 +1,8 @@
+name = "LSolveMWE"
+uuid = "497135d6-f16c-49c2-9139-856a59ac09cc"
+authors = ["Jürgen Fuhrmann <juergen-fuhrmann@web.de>"]
+version = "0.1.0"
+
+[deps]
+LinearSolve = "7ed4a6bd-45f5-4d41-b270-4a48e9bafcae"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
